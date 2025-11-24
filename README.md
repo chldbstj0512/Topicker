@@ -2,7 +2,7 @@
 **LLM-Reasoning Enhanced Hybrid Statistical Topic Modeling**
 
 Topicker는 **통계 기반 토픽 모델링**과 **LLM reasoning**을 결합하여  
-노이즈가 많은 실제 텍스트 환경에서도 **의미 기반(topic-level semantics)**을 포착하는 것을 목표로 합니다.
+노이즈가 많은 실제 텍스트 환경에서도 의미 기반(topic-level semantics)을 포착하는 것을 목표로 합니다.
 
 ---
 
