@@ -10,8 +10,8 @@ Topicker는 **통계 기반 토픽 모델링**과 **LLM reasoning**을 결합하
 
 ### 1) **Semantic Topic Discovery**
 단순 단어 빈도가 아닌,  
-문장 수준에서 **의미적 일관성(semantic coherence)**을 고려하여  
-텍스트의 **잠재 토픽(latent topics)**을 추출할 수 있어야 함.
+문장 수준에서 의미적 일관성(semantic coherence)을 고려하여  
+텍스트의 잠재 토픽(latent topics)을 추출할 수 있어야 함.
 
 ### 2) **Real-world Noisy Data Handling**
 현실 데이터는 필연적으로 **노이즈를 포함**함:
